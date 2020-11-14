@@ -4,4 +4,5 @@ With the help of this project, machine can generate its own captions related to 
 # One of example of final prediction:
 
 ![alt text](./download.jpeg)
- many people are standing around crowded street.
+ 
+many people are standing around crowded street.
